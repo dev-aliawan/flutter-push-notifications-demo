@@ -1,16 +1,23 @@
-# flutter_firebase_notifications
+# Flutter Firebase Cloud Messaging (FCM) Integration
 
-A new Flutter project.
+This Flutter application demonstrates the integration of Firebase Cloud Messaging (FCM) for push notifications on Android devices.
+
+## Overview
+
+This project provides a basic setup for integrating Firebase Cloud Messaging (FCM) into a Flutter application. It includes configuration steps for Firebase, implementation of FCM in Flutter, and examples for sending and receiving push notifications specifically for Android devices.
+
+## Features
+
+- Firebase setup for Android
+- Implementation of Firebase Cloud Messaging (FCM)
+- Sending and receiving push notifications
+- Android-only integration
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to get started with the project:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/dev-aliawan/flutter-push-notifications-demo.git
