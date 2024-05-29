@@ -41,3 +41,15 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# Flutter version manager
+.fvm/flutter_sdk
+
+
+# Firebase cache
+.firebase/
+.firebaserc
+
+# Exclude Firebase options file
+/lib/services/firebase_options.dart

@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 import 'screens/home_screen.dart';
 import 'screens/notifications_screen.dart';
 import 'services/firebase_messaging_service.dart';
-import 'utils/firebase_options.dart';
+import 'services/firebase_options.dart';
 
 final navigatorKey = GlobalKey<NavigatorState>();
 
