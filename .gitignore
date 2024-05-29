@@ -52,4 +52,4 @@ app.*.map.json
 .firebaserc
 
 # Exclude Firebase options file
-/lib/services/firebase_options.dart
+lib/services/firebase_options.dart
